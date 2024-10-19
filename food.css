@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+}
+header{
+    background-color: rgb(244, 244, 245);
+    width: 100%;
+    height: 5vh;
+    position: fixed;
+    z-index: 1;
+    padding-top: 10px;
+    margin: 0px;
+}
+.el1{
+    display: flex;
+    column-gap: 1000px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.el2{
+    display: flex;
+    column-gap: 30px;
+}
+a{
+    text-decoration: none;
+}
+.el3{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    padding-top: 50px;
+    
+
+}
+.el4{
+    width: 400px;
+    font-size: 18px;
+    line-height: 25px;
+    
+   
+}
+.el5{
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: "Playfair Display";
+}
+.el6{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+    padding-top: 50px;
+}
+.el7{
+   width: 500px;
+}
+.el8{
+    text-align: center;
+}
+.el9{
+    font-size: 14px;
+}
+.el11{
+    padding: 50px;
+}
+input{
+    width:80%;
+    height: 5vh;
+}
+footer{
+    background-color: aliceblue;
+    width: 100%;
+    height: 15vh;
+    text-align: center;
+    padding-top: 50px;
+}
